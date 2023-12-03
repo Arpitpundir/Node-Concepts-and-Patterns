@@ -1,0 +1,12 @@
+{
+  "name": "esm_modules",
+  "version": "1.0.0",
+  "description": "Exploring ESM modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
