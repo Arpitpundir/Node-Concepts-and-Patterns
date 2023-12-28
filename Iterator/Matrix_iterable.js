@@ -53,6 +53,10 @@ try {
         console.log('-------------->', currElement.value)
         currElement = it.next()
     }
+    // using for of loop
+    for(const element of temp){
+        console.log(element);
+    }
 } catch (error) {
     console.log('---------->', error)
 }
