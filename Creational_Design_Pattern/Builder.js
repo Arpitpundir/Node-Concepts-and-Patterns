@@ -39,3 +39,5 @@ class BoatBuilder {
         })
     }
 }
+
+const boat = new BoatBuilder().withMotors("", "", "").hasCabin(true).build();
